@@ -1,0 +1,3 @@
+[submodule "cli-rpg"]
+	path = cli-rpg
+	url = https://github.com/ahollist/cli-rpg
